@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "EV Technician",
+    "location": "Chennai",
+    "skills_required": [
+      "Electrical wiring",
+      "EV battery diagnostics",
+      "Charging system calibration"
+    ],
+    "wage": 950,
+    "distance_km": 3.2,
+    "job_category": "EV Technician",
+    "demand_score": 0.82
+  },
+  {
+    "id": 2,
+    "title": "Solar Installation Technician",
+    "location": "Chennai",
+    "skills_required": [
+      "Solar panel mounting",
+      "Inverter configuration",
+      "Basic electrical safety"
+    ],
+    "wage": 900,
+    "distance_km": 2.5,
+    "job_category": "Solar Installer",
+    "demand_score": 0.78
+  },
+  {
+    "id": 3,
+    "title": "Residential Electrician",
+    "location": "Chennai",
+    "skills_required": [
+      "House wiring",
+      "MCB panel installation",
+      "Fault detection"
+    ],
+    "wage": 800,
+    "distance_km": 1.8,
+    "job_category": "Construction Worker",
+    "demand_score": 0.65
+  },
+  {
+    "id": 4,
+    "title": "Drone Inspection Operator",
+    "location": "Chennai",
+    "skills_required": [
+      "Drone piloting",
+      "Safety compliance",
+      "Basic photography"
+    ],
+    "wage": 1100,
+    "distance_km": 5.0,
+    "job_category": "Drone Operator",
+    "demand_score": 0.74
+  },
+  {
+    "id": 5,
+    "title": "Solar Rooftop Assistant",
+    "location": "Chennai",
+    "skills_required": [
+      "Scaffolding safety",
+      "Panel cleaning",
+      "Cable routing"
+    ],
+    "wage": 700,
+    "distance_km": 4.1,
+    "job_category": "Solar Installer",
+    "demand_score": 0.71
+  },
+  {
+    "id": 6,
+    "title": "Electrical Maintenance Technician",
+    "location": "Chennai",
+    "skills_required": [
+      "Preventive maintenance",
+      "Industrial wiring",
+      "Motor rewinding basics"
+    ],
+    "wage": 1000,
+    "distance_km": 6.3,
+    "job_category": "EV Technician",
+    "demand_score": 0.76
+  },
+  {
+    "id": 7,
+    "title": "Construction Site Helper",
+    "location": "Chennai",
+    "skills_required": [
+      "Material handling",
+      "Basic masonry support",
+      "Safety gear usage"
+    ],
+    "wage": 650,
+    "distance_km": 3.9,
+    "job_category": "Construction Worker",
+    "demand_score": 0.58
+  },
+  {
+    "id": 8,
+    "title": "Hospital Support Staff",
+    "location": "Chennai",
+    "skills_required": [
+      "Patient assistance",
+      "Sanitisation",
+      "Wheelchair handling"
+    ],
+    "wage": 750,
+    "distance_km": 2.7,
+    "job_category": "Healthcare Aide",
+    "demand_score": 0.88
+  },
+  {
+    "id": 9,
+    "title": "EV Charging Station Attendant",
+    "location": "Chennai",
+    "skills_required": [
+      "Customer handling",
+      "Basic EV safety",
+      "POS operation"
+    ],
+    "wage": 700,
+    "distance_km": 4.8,
+    "job_category": "EV Technician",
+    "demand_score": 0.8
+  },
+  {
+    "id": 10,
+    "title": "Solar Site Surveyor",
+    "location": "Chennai",
+    "skills_required": [
+      "Roof assessment",
+      "Measurement",
+      "Customer communication"
+    ],
+    "wage": 950,
+    "distance_km": 5.6,
+    "job_category": "Solar Installer",
+    "demand_score": 0.79
+  },
+  {
+    "id": 11,
+    "title": "React Frontend Developer",
+    "location": "Chennai",
+    "skills_required": [
+      "React",
+      "JavaScript",
+      "Git"
+    ],
+    "wage": 1200,
+    "distance_km": 8.1,
+    "job_category": "Software Engineer",
+    "demand_score": 0.92
+  },
+  {
+    "id": 12,
+    "title": "Backend Python Engineer",
+    "location": "Chennai",
+    "skills_required": [
+      "Python",
+      "APIs",
+      "Docker"
+    ],
+    "wage": 1350,
+    "distance_km": 4.5,
+    "job_category": "Software Engineer",
+    "demand_score": 0.89
+  }
+]
